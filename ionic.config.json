@@ -1,0 +1,7 @@
+{
+  "name": "proyectovale",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
